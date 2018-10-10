@@ -1,6 +1,15 @@
 # Natural Language Processing course resources
 https://www.coursera.org/learn/language-processing
 
+
+## Assignment
+I will publish my solution to assignments in each week folder.
+* Week 1 --> Done!
+* Week 2
+* Week 3
+* Week 4
+* Week 5
+
 ## Running on Google Colab
 Google has released its own flavour of Jupyter called Colab, which has free GPUs!
 
